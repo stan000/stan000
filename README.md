@@ -36,7 +36,7 @@
 </p>
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stan000&layout=compact&hide=html" alt="Stan's stats" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanmpakati&layout=compact&hide=html" alt="Stan's stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stan000&show_icons=true" alt="Stan's github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanmpakati&show_icons=true" alt="Stan's github stats" /></p>
 <!--
