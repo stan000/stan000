@@ -2,7 +2,7 @@
 <h3 align="left">I'm an aspiring Software Engineer 😜.</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/stanmpakati?label=stanmpakati&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/stan000?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/stanmpakati?logo=GitHub&style=for-the-badge)
 
 - 🌱 I’m currently learning **Flutter, Angular, NodeJs**
 
