@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=stanmpakati)
 <h1 align ="left">Hi 👋, I'm Stan Mpakati</h1>
 <h3 align="left">I'm an aspiring Software Engineer 😜.</h3>
 
@@ -39,4 +40,9 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanmpakati&layout=compact&hide=html" alt="Stan's stats" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanmpakati&show_icons=true" alt="Stan's github stats" /></p>
+
+ [![Stan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanmpakati&theme=blue-green)](https://github.com/stanmpakati/github-readme-streak-stats)
+
+[![Stan's github activity graph](https://activity-graph.herokuapp.com/graph?username=stanmpakati&theme=dracula)](https://github.com/stanmpakati/github-readme-activity-graph)
+
 <!--
