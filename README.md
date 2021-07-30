@@ -45,6 +45,6 @@
 
 [![Stan's github activity graph](https://activity-graph.herokuapp.com/graph?username=stanmpakati&theme=dracula)](https://github.com/stanmpakati/github-readme-activity-graph)
 
-[![stanmpakati's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stanmpakati&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![stanmpakati's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stanmpakati&theme=tokyonight)](https://github.com/stanmpakati/github-readme-stats)
 
 <!--
