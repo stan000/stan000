@@ -17,12 +17,12 @@
 
 ### Connect with me:
 
-<a href="https://wa.me/263775906373" target="blank"><img src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="263775906373" height="25" /></a>
+<a href="https://wa.me/263714998913" target="blank"><img src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="263714998913" height="25" /></a>
 <a href="https://twitter.com/stanmpakati" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/stan-mpakati-244ba6173/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Stan Mpakati" height="25" /></a>
 <a href="https://www.instagram.com/stanmpakati" target="blank"><img src="https://img.shields.io/badge/instagram-C32AA3.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Stan Mpakati" height="25" /></a>
 <a href="https://www.facebook.com/stan.mpakati/" target="blank"><img src="https://img.shields.io/badge/facebook-3b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Stan Mpakati" height="25" /></a> 
-<a href="https://twitter.com/stanmpakati" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:mpakatistang@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <br />
 
 ### Dev Tools:
